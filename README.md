@@ -6,9 +6,9 @@
 2.b- Multiplique os números 7 e 4; 
 2.c- Divida o número 9 por 3;
 
-3.a- Encontre a raiz quadrada de 49; 
-3.b- Imprima o resultado de 3³; 
-3.c- Some 3² com 2³; 
+3.a- Encontre a raiz quadrada de 49;
+3.b- Imprima o resultado de 3³;
+3.c- Some 3² com 2³;
 3.d- Imprima o RESTO da divisão de 7² pela raiz quadrada de 625;
 
 4. O programa deve receber duas variáveis (a e b), sendo a = 10 e b = 7, determine se:  
